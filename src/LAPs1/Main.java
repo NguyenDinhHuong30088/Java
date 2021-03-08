@@ -1,7 +1,6 @@
 package LAPs1;
 
 public class Main {
-    // Lab s1
     public static void main(String[] args) {
         Product sp1;
         sp1 = new Product();
