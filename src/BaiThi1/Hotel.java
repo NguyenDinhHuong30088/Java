@@ -9,7 +9,6 @@ public class Hotel {
     }
 
     public Hotel(String name, String location, String owener) {
-        this.name = name;
         this.location = location;
         this.owener = owener;
     }
